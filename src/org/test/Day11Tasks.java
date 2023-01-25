@@ -10,7 +10,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 public class Day11Tasks {
 
 	public static void main(String[] args) {
-
+//selenium day 11
 		System.setProperty("webdriver.chrome.driver",
 				"C:\\Users\\manoj\\eclipse-workspace\\Day2Task\\Driver\\chromedriver.exe");
 
